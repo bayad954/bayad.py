@@ -1,1 +1,1 @@
-# bayad.py
+# python2 bayad.py
